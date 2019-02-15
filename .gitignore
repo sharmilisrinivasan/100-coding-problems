@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+env/
 build/
 develop-eggs/
 dist/
@@ -69,7 +70,7 @@ docs/_build/
 # PyBuilder
 target/
 
-# Jupyter Notebook
+# IPython Notebook
 .ipynb_checkpoints
 
 # pyenv
@@ -102,3 +103,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# dotenv
+.env
+
+# virtualenv
+venv/
+ENV/
