@@ -11,11 +11,17 @@ Now you have to answer Q queries where each query contains a time instant T and 
 
 **Constraints**:
 `1 <= N <= 100`
+
 `1 <= Q <= 500000`
+
 `1 <= t[i][j] <= 100`
+
 `1 <= T <= 100`
+
 `1 <= x1, y1 <= N, x1 <= x2 <= N, y1 <= y2 <= N`
+
 `Colour = R / G / B`
+
 
 **Format of the input file**:
 _First line_ : Two space separated integers N and Q.
