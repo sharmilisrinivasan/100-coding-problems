@@ -10,6 +10,7 @@ For example, consider a cell with color R at t=0 and frequency of this cell is 2
 Now you have to answer Q queries where each query contains a time instant T and a sub-grid denoted by Left-top point (x1,y1)  and Right-bottom point (x2,y2) and a color C (R,G or B). You have to tell number of cells having color C in the sub-grid at time T.
 
 **Constraints**:
+
 `1 <= N <= 100`
 
 `1 <= Q <= 500000`
@@ -24,11 +25,16 @@ Now you have to answer Q queries where each query contains a time instant T and 
 
 
 **Format of the input file**:
+
 _First line_ : Two space separated integers N and Q.
-_Next N lines_ : N space separated integers denoting frequency of each cell 
+
+_Next N lines_ : N space separated integers denoting frequency of each cell.
+
 _Next Q lines_ : Five space separated integers and a space separated characted C denoting T x1 y1 x2 y2 C where C is the color.
 
+
 **Format of the output file**:
+
 For each test case output desired answer in a separate line.
 
 ### Sample
