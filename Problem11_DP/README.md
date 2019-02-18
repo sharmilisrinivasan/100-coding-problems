@@ -30,16 +30,24 @@ For each test case output desired answer in a separate line.
 #### Input
 
 3 2
+
 1 2 1
+
 2 1 2
+
 1 2 3
+
 2 1 1 3 3 G
+
 2 1 1 3 3 R
+
 
 #### Sample Output
 
 4
+
 1
+
 
 #### Explanation
 At the end of 2 seconds, we get the following grid:
