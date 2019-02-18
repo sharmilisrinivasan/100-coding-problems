@@ -26,9 +26,9 @@ For each test-case, output a single non-negative integer denoting the minimum ar
 
 `1 <= T <= 5`
 
-`1 <= N <= 10<sup>5</sup>`
+`1 <= N <= 10^5`
 
-`-10<sup>9</sup> <= x<sub>i</sub>,y<sub>i</sub> <= 10<sup>9</sup>`
+`-10^9 <= xi,yi <= 10^9`
 
 
 ### Sample
