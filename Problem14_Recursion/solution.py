@@ -1,4 +1,10 @@
+from typing import List
+
+
 class Solution:
+
+    def __init__(self):
+        self.my_solution = []
 
     def subset(self, in_nums: List[int], out_nums: List[int]):
         if len(in_nums) == 0:
@@ -10,6 +16,5 @@ class Solution:
         self.subset(new_ip, out_nums)
 
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        self.my_solution = []
         self.subset(nums, [])
         return self.my_solution
