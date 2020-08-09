@@ -110,3 +110,6 @@ venv.bak/
 # virtualenv
 venv/
 ENV/
+
+# IDE
+.idea/*
