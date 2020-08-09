@@ -3,17 +3,21 @@
 
 ### [Problem Statement](https://www.hackerearth.com/practice/basic-programming/recursion/recursion-and-backtracking/practice-problems/algorithm/encrypted-love-2o/)
 
-Hello guys i think you remeber Karthik from Encrypted Love problem right ?
+Hello guys! I think you remember Karthik from Encrypted Love problem right ?
 
-His girlfriend's brother  got some doubt about her messages and somehow decrypted the messages.
+His girlfriend's brother got some doubt about her messages and somehow decrypted the messages.
 
-But Karthik still a smart guy  obviously a true lover and dont wanted to giveup messaging her. So he came up with a new encryption technique.
+But Karthik still a smart guy, obviously a true lover and don't wanted to give up messaging her.
+
+So, he came up with a new encryption technique.
 
 **Decryption Process**:
 
-word will start with the middle character of the string and will be formed henceforth with the middle characters of the right and left substrings (of the middle character of the word) and so on. Take a look at the explanation of the sample test case for better comprehension.
+Word will start with the middle character of the string and will be formed henceforth with the middle characters of the right and left substrings (of the middle character of the word) and so on.
 
-Since you are a best programmer she know ,she asked  your help to decrypt  the message.
+Take a look at the explanation of the sample test case for better comprehension.
+
+Since, you are a best programmer she know ,she asked your help to decrypt the message.
 
 
 **Input**:
